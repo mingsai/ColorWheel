@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A32453F7-5E0B-46EE-AB95-512B06609988</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColorWheel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D854E818DB6AB6E4D0F640F332950788C037FBC8</key>
+		<string>https://github.com/mingsai/ColorWheel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ColorWheel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D854E818DB6AB6E4D0F640F332950788C037FBC8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mingsai/ColorWheel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D854E818DB6AB6E4D0F640F332950788C037FBC8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D854E818DB6AB6E4D0F640F332950788C037FBC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ColorWheel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
