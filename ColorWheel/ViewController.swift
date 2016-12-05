@@ -12,14 +12,10 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var colorOutput: UIView!
     @IBOutlet weak var colorWheel: ColorWheel!
+
     @IBAction func handleTapGesture(gesture: UITapGestureRecognizer) {
-        
-        var point = gesture.locationInView(colorWheel)
-//        println ("\(colorWheel.colorAtPoint(point))")
-//        println("\(point)")
-        
-        colorOutput.backgroundColor = colorWheel.colorAtPoint(point)
-        
+        let point = gesture.locationInView(colorWheel)
+        colorOutput.backgroundColor = colorWheel.color(at: point)
     }
 
     override func viewDidLoad() {
