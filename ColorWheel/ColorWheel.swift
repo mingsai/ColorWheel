@@ -24,7 +24,7 @@ class ColorWheel: UIView {
         center = super.center
     }
     
-    required init(coder aDecoder: NSCoder) {
+    required init?(coder aDecoder: NSCoder) {
        super.init(coder: aDecoder)
     }
     

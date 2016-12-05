@@ -164,9 +164,11 @@
 				TargetAttributes = {
 					192415661AD70BF30007C81D = {
 						CreatedOnToolsVersion = 6.3;
+						LastSwiftMigration = 0810;
 					};
 					1924157B1AD70BF30007C81D = {
 						CreatedOnToolsVersion = 6.3;
+						LastSwiftMigration = 0810;
 						TestTargetID = 192415661AD70BF30007C81D;
 					};
 				};
@@ -349,6 +351,7 @@
 				INFOPLIST_FILE = ColorWheel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -359,6 +362,7 @@
 				INFOPLIST_FILE = ColorWheel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -377,6 +381,7 @@
 				INFOPLIST_FILE = ColorWheelTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorWheel.app/ColorWheel";
 			};
 			name = Debug;
@@ -392,6 +397,7 @@
 				INFOPLIST_FILE = ColorWheelTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorWheel.app/ColorWheel";
 			};
 			name = Release;
@@ -415,6 +421,7 @@
 				192415881AD70BF30007C81D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		192415891AD70BF30007C81D /* Build configuration list for PBXNativeTarget "ColorWheelTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +430,7 @@
 				1924158B1AD70BF30007C81D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
