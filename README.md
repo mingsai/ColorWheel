@@ -1,5 +1,7 @@
 # ColorWheel
 
+(Support for Swift 5.1)
+
 A simple color wheel using Swift.  
 
 Usage:
